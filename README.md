@@ -7,7 +7,7 @@
 # 🌐 Socials:
 
 [![Portfolio Website](https://img.shields.io/badge/Portfolio-4CAF50.svg?style=for-the-badge&logo=statistics&logoColor=white)](https://sumit-baviskar.github.io/Sumit_Baviskar_PortFolio/index.html)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=Linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sumit-baviskar/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sumit-baviskar/) 
 
 
 
