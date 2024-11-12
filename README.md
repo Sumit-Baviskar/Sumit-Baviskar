@@ -3,9 +3,9 @@
 ### :point_right: *About Me* <br>Aspiring data analyst with strong expertise in SQL, Python, Power BI, Excel , Statistics and Machine Learning  for data analysis and visualization.<br><br>:point_right: I'm Looking to Collaborate On<br>Data-driven projects, dashboard creation, and business analytics.<br><br>:point_right: I'm Looking for Help With<br>Advanced machine learning techniques and optimization for big data.<br><br>:point_right: I'm Currently Learning<br>Scikit-learn for machine learning and Hvplot for enhanced data visualizations.<br><br> :point_right: *Ask Me About*<br>  Creating insightful dashboards and visualizations using Power BI and Python.<br>
 
 
-
 # 🌐 Socials:
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:st.baviskar43@gmail.com)
 [![Portfolio Website](https://img.shields.io/badge/Portfolio-4CAF50.svg?style=for-the-badge&logo=statistics&logoColor=white)](https://sumit-baviskar.github.io/Sumit_Baviskar_PortFolio/index.html)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-baviskar/)
 
