@@ -5,9 +5,11 @@
 
 # 🌐 Socials:
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:st.baviskar43@gmail.com)
+
 [![Portfolio Website](https://img.shields.io/badge/Portfolio-4CAF50.svg?style=for-the-badge&logo=statistics&logoColor=white)](https://sumit-baviskar.github.io/Sumit_Baviskar_PortFolio/index.html)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-baviskar/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-baviskar/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:st.baviskar43@gmail.com)
+
 
 
 # 💻 Tech Stack:    
@@ -25,6 +27,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00.svg?style=for-the-badge&logo=machine-learning&logoColor=white)
 
 # Certification:
+
 
 [![Certifications](https://img.shields.io/badge/Certifications-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-baviskar/details/certifications/)
 
