@@ -26,7 +26,7 @@
 ![EDA](https://img.shields.io/badge/EDA-FF5733.svg?style=for-the-badge&logo=chart-bar&logoColor=white) 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00.svg?style=for-the-badge&logo=machine-learning&logoColor=white)
 
-# Certification:
+# Certifications:
 
 
 [![Certifications](https://img.shields.io/badge/Certifications-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-baviskar/details/certifications/)
