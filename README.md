@@ -5,10 +5,8 @@
 
 # 🌐 Socials:
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Click%20Here-white?style=for-the-badge&logo=Notion&logoColor=black)](https://nice-web-16a.notion.site/Sumit-Baviskar-Data-Analyst-Portfolio-18e7130b12678024b30fc011c22427b7)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-White?style=for-the-badge&logo=Notion&logoColor=red)](https://nice-web-16a.notion.site/Sumit-Baviskar-Data-Analyst-Portfolio-18e7130b12678024b30fc011c22427b7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-baviskar/)
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:st.baviskar43@gmail.com)
 
 
@@ -16,23 +14,14 @@
 # 💻 Tech Stack:    
 
 ![MySQL](https://img.shields.io/badge/MySQL-00618A.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-
 ![Power BI](https://img.shields.io/badge/Power%20BI-FFD700.svg?style=for-the-badge&logo=powerbi&logoColor=black) 
-
 ![Excel](https://img.shields.io/badge/Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
-
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=FFD43B) 
-
 ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-000080.svg?style=for-the-badge&logo=Matplotlib&logoColor=white) 
-
 ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-
 ![Statistics](https://img.shields.io/badge/Statistics-4CAF50.svg?style=for-the-badge&logo=statistics&logoColor=white) 
-
 ![EDA](https://img.shields.io/badge/EDA-FF5733.svg?style=for-the-badge&logo=chart-bar&logoColor=white) 
 
 
