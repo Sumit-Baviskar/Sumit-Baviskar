@@ -6,7 +6,7 @@
 # 🌐 Socials:
 
 
-[![Portfolio Website](https://img.shields.io/badge/Portfolio-4CAF50.svg?style=for-the-badge&logo=statistics&logoColor=white)](https://sumit-baviskar.github.io/Sumit_Baviskar_PortFolio/index.html)
+[![Portfolio Website](https://nice-web-16a.notion.site/Sumit-Baviskar-Data-Analyst-Portfolio-18e7130b12678024b30fc011c22427b7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-baviskar/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:st.baviskar43@gmail.com)
 
