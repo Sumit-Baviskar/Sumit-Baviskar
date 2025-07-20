@@ -1,6 +1,24 @@
 # :raised_hand:  Hi, I'm Sumit 
 
-### :point_right: *About Me* <br>Aspiring data analyst with strong expertise in SQL, Python, Power BI, Excel , Statistics and Machine Learning  for data analysis and visualization.<br><br>:point_right: I'm Looking to Collaborate On<br>Data-driven projects, dashboard creation, and business analytics.<br><br>:point_right: I'm Looking for Help With<br>Advanced machine learning techniques and optimization for big data.<br><br>:point_right: I'm Currently Learning<br>Scikit-learn for machine learning and Hvplot for enhanced data visualizations.<br><br> :point_right: *Ask Me About*<br>  Creating insightful dashboards and visualizations using Power BI and Python.<br>
+### :point_right: About Me <br>
+  - Aspiring Data Engineer with strong expertise in SQL, Python, Power BI, Excel, and cloud-based tools for building scalable data pipelines and transforming raw data into actionable insights.<br><br>
+
+### :point_right: I'm Looking to Collaborate On<br>
+
+  - Data engineering projects, real-time data streaming, cloud data warehousing, and interactive dashboard development.<br><br>
+
+### :point_right: I'm Looking for Help With<br>
+
+  - Optimizing big data pipelines, advanced data orchestration techniques, and best practices for distributed data systems.<br><br>
+
+### :point_right: I'm Currently Learning<br>
+
+  - Matplotlib,Power BI and AWS Quicksight for enhanced data visualization and Apache Airflow/dbt for orchestrating and managing data workflows efficiently.<br><br>
+
+### :point_right: Ask Me About<br>
+
+  - Designing end-to-end data pipelines using PySpark, Kafka, and Airflow, visualizing insights with Power BI, and leveraging AWS and Snowflake for scalable data solutions.<br><br>
+
 
 
 # 🌐 Socials:
@@ -14,13 +32,21 @@
 # 💻 Tech Stack:    
 
 ![MySQL](https://img.shields.io/badge/MySQL-00618A.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=F90)
+![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB.svg?style=for-the-badge&logo=snowflake&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B.svg?style=for-the-badge&logo=dbt&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-FFD700.svg?style=for-the-badge&logo=powerbi&logoColor=black) 
 ![Excel](https://img.shields.io/badge/Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=FFD43B) 
 ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-000080.svg?style=for-the-badge&logo=Matplotlib&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![Statistics](https://img.shields.io/badge/Statistics-4CAF50.svg?style=for-the-badge&logo=statistics&logoColor=white) 
 ![EDA](https://img.shields.io/badge/EDA-FF5733.svg?style=for-the-badge&logo=chart-bar&logoColor=white) 
 
