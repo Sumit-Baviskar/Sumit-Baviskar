@@ -1,16 +1,18 @@
 # :raised_hand:  Hi, I'm Sumit 
 
-### :point_right: **About Me** <br>
+## :point_right: **About Me** <br>
   - Aspiring Data Engineer with strong expertise in SQL, Python, Power BI, Excel, and cloud-based tools for building scalable data pipelines and transforming raw data into actionable insights.<br><br>
-### :point_right: **I'm Looking to Collaborate On** <br>
+
+## :point_right: **I'm Looking to Collaborate On** <br>
   - Data engineering projects, real-time data streaming, cloud data warehousing, and interactive dashboard development.<br><br>
-### :point_right: **I'm Looking for Help With** <br>
+
+## :point_right: **I'm Looking for Help With** <br>
 
   - Optimizing big data pipelines, advanced data orchestration techniques, and best practices for distributed data systems.<br><br>
-### :point_right: **I'm Currently Learning** <br>
+## :point_right: **I'm Currently Learning** <br>
 
   - Matplotlib,Power BI and AWS Quicksight for enhanced data visualization and Apache Airflow/dbt for orchestrating and managing data workflows efficiently.<br><br>
-### :point_right: **Ask Me About** <br>
+## :point_right: **Ask Me About** <br>
 
   - Designing end-to-end data pipelines using PySpark, Kafka, and Airflow, visualizing insights with Power BI, and leveraging AWS and Snowflake for scalable data solutions.<br><br>
 
